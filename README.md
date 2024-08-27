@@ -24,7 +24,7 @@
 2. Перейдите в папку проекта:
 
     ```bash
-    cd your-project-name
+    cd test_app_vue
     ```
 
 3. Установите зависимости:
